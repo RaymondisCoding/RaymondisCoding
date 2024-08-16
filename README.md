@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RaymondisCoding
+- 👀 I’m interested in Photography, Guitar, and TCG
+- 🌱 I’m currently learning Backend Development & CyberSecurity
